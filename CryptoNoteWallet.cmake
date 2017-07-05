@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "testcoin")
+set(CN_CURRENCY_DISPLAY_NAME "FuriousCoin")
+set(CN_CURRENCY_TICKER "TTC")
